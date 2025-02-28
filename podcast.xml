@@ -7,9 +7,9 @@
     <language>fr</language>
     <category>Destinations et voyages</category>
     <image>
-      <url>https://imgur.com/KDJzie3</url>
+      <url>https://i.imgur.com/rzqVjQR.jpg</url>
       <title>L'année du serpent</title>
-      <link>https://imgur.com/KDJzie3</link>
+      <link>https://github.com/Sesenouille</link>
     </image>
 
     <item>
@@ -24,10 +24,9 @@
       <pubDate>Mon, 26 Feb 2024 05:00:00 GMT</pubDate>
       <duration>399</duration>
       <image>
-    <url>https://imgur.com/undefined</url>
-    <title>Épisode 1 - Premières impressions</title>
-    <link>https://imgur.com/undefined</link>
-  </image>
-</item>
+        <url>https://i.imgur.com/XvYbEJN.jpg</url>
+        <title>Épisode 1 - Premières impressions</title>
+      </image>
+    </item>
   </channel>
 </rss>
