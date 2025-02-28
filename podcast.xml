@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>L'année du serpent</title>
+    <link>https://github.com/Sesenouille</link>
+    <description>Podcast d'amatrice pour raconter ma vie à Beijing</description>
+    <language>fr</language>
+    <author>Serena</author>
+    <category>Destinations et voyages</category>
+    <image>
+      <url>https://docs.google.com/uc?export=download&id=1zoGjcd3ZmtlwWtTe5EIn3rf909r4Ibaf</url>
+      <title>L'année du serpent</title>
+      <link>https://github.com/Sesenouille</link>
+    </image>
+
+    <item>
+      <title>Épisode 1 - Premières impressions</title>
+      <description>Coucou les copaines :) Arrivés à Beijing il y a 6 jours, premières impressions en 3 mois :&#10;
+  - marcher 🦶&#10;
+  - manger 🥣&#10;
+  - smartphone 📲&#10;
+  A très vite dans vos oreilles 😘</description>
+      <enclosure url="https://docs.google.com/uc?export=download&id=1H5spflNi1FdcddG7QIXdf0aWerLQYaWb" length="11418598" type="audio/mpeg"/>
+      <guid>https://docs.google.com/uc?export=download&id=1H5spflNi1FdcddG7QIXdf0aWerLQYaWb</guid>
+      <pubDate>Mon, 26 Feb 2024 05:00:00 GMT</pubDate>
+      <duration>399</duration>
+    </item>
+
+  </channel>
+</rss>
